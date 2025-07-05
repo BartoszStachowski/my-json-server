@@ -65,6 +65,160 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
+    },
+    {
+      "id": 1004,
+      "category": "animal welfare",
+      "title": "Puppy Training Workshop",
+      "description": "Teach your puppy new tricks and good behavior.",
+      "location": "Paw Park",
+      "date": "May 15, 2022",
+      "time": "14:00",
+      "petsAllowed": true,
+      "organizer": "Leash Trainer"
+    },
+    {
+      "id": 1005,
+      "category": "food",
+      "title": "Farmers Market",
+      "description": "Buy fresh, local produce from area farmers.",
+      "location": "Market Square",
+      "date": "June 10, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Faye Rmer"
+    },
+    {
+      "id": 1006,
+      "category": "sustainability",
+      "title": "Tree Planting Day",
+      "description": "Help plant trees in the city park.",
+      "location": "Green Park",
+      "date": "April 22, 2022",
+      "time": "10:30",
+      "petsAllowed": false,
+      "organizer": "Forrest Woods"
+    },
+    {
+      "id": 1007,
+      "category": "animal welfare",
+      "title": "Vet Q&A Session",
+      "description": "Ask questions to local veterinarians.",
+      "location": "Animal Clinic",
+      "date": "March 1, 2022",
+      "time": "16:00",
+      "petsAllowed": true,
+      "organizer": "Dr. Paw Lowski"
+    },
+    {
+      "id": 1008,
+      "category": "food",
+      "title": "Cooking Class: Vegan Delights",
+      "description": "Learn how to cook delicious vegan meals.",
+      "location": "Kitchen Studio",
+      "date": "October 7, 2022",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "Vegan Chef"
+    },
+    {
+      "id": 1009,
+      "category": "sustainability",
+      "title": "Recycling Workshop",
+      "description": "Find out how to recycle and reuse more.",
+      "location": "Eco Center",
+      "date": "May 19, 2022",
+      "time": "11:30",
+      "petsAllowed": false,
+      "organizer": "Re Cyclar"
+    },
+    {
+      "id": 1010,
+      "category": "animal welfare",
+      "title": "Pet Vaccination Clinic",
+      "description": "Low-cost vaccinations for your pets.",
+      "location": "Vet Hall",
+      "date": "February 13, 2022",
+      "time": "09:30",
+      "petsAllowed": true,
+      "organizer": "Vacci Nation"
+    },
+    {
+      "id": 1011,
+      "category": "food",
+      "title": "Soup Kitchen Volunteer Day",
+      "description": "Help serve food to those in need.",
+      "location": "City Shelter",
+      "date": "November 12, 2022",
+      "time": "12:00",
+      "petsAllowed": false,
+      "organizer": "Charity Soup"
+    },
+    {
+      "id": 1012,
+      "category": "sustainability",
+      "title": "Solar Power Demo",
+      "description": "Learn about solar energy at this live demonstration.",
+      "location": "Tech Park",
+      "date": "June 16, 2022",
+      "time": "13:00",
+      "petsAllowed": false,
+      "organizer": "Sunny Ray"
+    },
+    {
+      "id": 1013,
+      "category": "animal welfare",
+      "title": "Rabbit Rescue Info",
+      "description": "Meet rabbits looking for a forever home.",
+      "location": "Bunny Field",
+      "date": "April 3, 2022",
+      "time": "15:00",
+      "petsAllowed": true,
+      "organizer": "Bunny Hope"
+    },
+    {
+      "id": 1014,
+      "category": "food",
+      "title": "Cheese Tasting",
+      "description": "Try a variety of local cheeses.",
+      "location": "Dairy Delight",
+      "date": "September 1, 2022",
+      "time": "17:00",
+      "petsAllowed": false,
+      "organizer": "Colby Jack"
+    },
+    {
+      "id": 1015,
+      "category": "sustainability",
+      "title": "Urban Composting Tips",
+      "description": "Learn to compost at home and reduce waste.",
+      "location": "City Hall",
+      "date": "March 10, 2022",
+      "time": "14:00",
+      "petsAllowed": false,
+      "organizer": "Com Postman"
+    },
+    {
+      "id": 1016,
+      "category": "animal welfare",
+      "title": "Bird Watching Walk",
+      "description": "Join us for a guided bird watching experience.",
+      "location": "Lakeview Trail",
+      "date": "May 5, 2022",
+      "time": "08:00",
+      "petsAllowed": true,
+      "organizer": "Robin Byrd"
+    },
+    {
+      "id": 1017,
+      "category": "food",
+      "title": "Pie Baking Contest",
+      "description": "Show off your baking skills and win a prize.",
+      "location": "Community Hall",
+      "date": "December 10, 2022",
+      "time": "13:00",
+      "petsAllowed": false,
+      "organizer": "Patty Cake"
     }
   ]
 }
